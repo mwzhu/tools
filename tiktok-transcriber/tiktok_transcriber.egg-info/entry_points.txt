@@ -1,0 +1,3 @@
+[console_scripts]
+tiktok-transcribe = tiktok_transcriber.cli:main
+
